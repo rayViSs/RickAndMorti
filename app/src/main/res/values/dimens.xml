@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //CharacterDetailFragment item
+    <dimen name="item_character_name_padding_start">4dp</dimen>
+    <dimen name="item_character_name_padding_end">2dp</dimen>
+</resources>

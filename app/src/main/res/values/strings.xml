@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickMortyApi</string>
+    <string name="clf_no_results_query">Oops, nothing found :(</string>
+    <string name="img_character_description">Character image</string>
+    <string name="tv_character_name">Имя:</string>
+    <string name="tv_character_species">Вид:</string>
+    <string name="tv_character_status">Статус:</string>
+    <string name="tv_character_last_loc">Last known location:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

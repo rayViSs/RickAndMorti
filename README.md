@@ -6,13 +6,13 @@ RickAndMorty App - это приложение, разработанное на 
 
 ## Стек технологий: 
 
-Retrofit, Gson, Kotlin Coroutines, Glide, Paging, Jetpack Compose,  Clean Architecture, MVVM
+Retrofit, Gson, Kotlin Coroutines, Glide, Paging, Jetpack Compose, MVVM
 
 ## Скриншоты
 
 <div align="center">
-  <img src="https://github.com/rayViSs/RickAndMorti/blob/main/app/src/main/res/screenshots/charactersListScreenshot.png" alt="characterListScreenshot" width="400">
-  <img src="https://github.com/rayViSs/RickAndMorti/blob/main/app/src/main/res/screenshots/characterDetailsScreenshot.png" alt="characterDetailsScreenshot" width="400">
+  <img src="https://github.com/rayViSs/RickAndMorti/blob/main/app/src/main/res/drawable/list_screen.png" alt="characterListScreenshot" width="400">
+  <img src="https://github.com/rayViSs/RickAndMorti/blob/main/app/src/main/res/drawable/details_screen.png" alt="characterDetailsScreenshot" width="400">
 </div>
 
 ## Возможности
